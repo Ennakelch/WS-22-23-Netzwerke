@@ -1,4 +1,4 @@
-id,handle,followers_count,friends_count,isProxy
+id,name,followers_count,friends_count,isProxy
 0,"SPD_Hameln",580,149,0
 1,"CDUhameln",567,240,0
 2,"Jusos_Hameln",526,371,0
